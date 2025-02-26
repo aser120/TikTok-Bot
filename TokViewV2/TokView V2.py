@@ -27,7 +27,7 @@ ascii_text = """
            \ \__\ \ \_______\ \__\\\\ \__\ \__/ /     \ \__\ \_______\ \____________\ 
             \|__|  \|_______|\|__| \|__|\|__|/       \|__|\|_______|\|____________|
                                  
-                                by DaniDuese#4798
+                                by aser120
 
               Licence: Automation of zefoy.com - All rights reserved
     """
